@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    hellobase-core_ext (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.14.4)
+
+PLATFORMS
+  -darwin-21
+
+DEPENDENCIES
+  hellobase-core_ext!
+  minitest (~> 5.14)
+
+BUNDLED WITH
+   2.2.32
